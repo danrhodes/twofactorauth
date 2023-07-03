@@ -1,0 +1,12 @@
+{
+  "BackupRegister": {
+    "domain": "backupregister.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "",
+    "categories": [
+      "backup"
+    ]
+  }
+}
